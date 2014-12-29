@@ -1,0 +1,10 @@
+
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ss]cripts
+pyvenv.cfg
+
+*.pyc
+*~
